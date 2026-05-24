@@ -1,5 +1,6 @@
 # 🚑 NexTransit AI: Software-Defined Edge Preemption Twin
-https://github.com/vanshpratapsingh926-gif/NexTransit-AI/blob/main/demo.mp4
+<video src="demo.mp4" controls="controls" width="100%">
+</video>
 
 NexTransit AI is a high-performance smart-city digital twin designed to minimize emergency vehicle response times. By transforming passive traffic data channels into an active, predictive command matrix, the system clears intersection roadblocks autonomously before the asset arrives.
 
